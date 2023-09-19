@@ -1,0 +1,172 @@
+*{margin:0;
+    padding: 0;}
+    
+    header{background-color: #F0FFF0;font-family: 'Poppins', sans-serif;
+    /* min-height: 100vh; */
+    }
+    
+        .mg-text{text-transform: capitalize;}
+    
+        header h5{
+            font-family:'Poppins', sans-serif;
+            font-size: 16px;
+            font-weight: 400;
+            line-height: 24px;
+            letter-spacing: 0em;
+            text-align: left;
+        color: #FD511A;
+        ;}
+    
+        header h1{
+            color: #000000;
+            font-family: 'Poppins', sans-serif;
+            font-size: 48px;
+            font-weight: 700;
+            line-height: 70px;
+            letter-spacing: 0em;
+            text-align: left;
+            width: 26vw;
+            }
+        header span{color: #21B573;
+            font-family: Poppins;
+            font-size: 48px;
+            font-weight: 700;
+            line-height: 70px;
+            letter-spacing: 0em;
+            text-align: left;}   
+            
+            header p{
+                font-family:Poppins;
+                font-size: 16px;
+                font-weight: 400;
+                line-height: 36px;
+                letter-spacing: 0em;
+                text-align: left;
+                width: 26vw;
+                }
+            
+       
+        .btn-costom{color: white;background: #21B573;font-size: 16px; line-height: 19px;padding:10px 20px ; border-radius:50px ;}
+        .btn-costom:hover{background: #267652;color: #F0FFF0;}
+        .height-width{min-height: 75vh;
+        align-items: center;}
+       .href a{
+    background: #21b573;
+    color: white;
+    /* padding-left: 1vw; */
+    border-radius: 20px;}
+    .feature-content{
+        background: #f8fffb;
+        font-family: 'Poppins', sans-serif;
+        padding: 50px 0px;
+    }
+    .feature-content img{width: 20%;}
+    .feature-content h2{
+        color: #413960;
+        line-height: 36px;
+        font-size: 24px;
+        margin-top: 15px;
+    }
+    .feature-content p{color: #585859;
+    line-height: 24px;}
+
+    .feature-content:hover{background-color: #fff;box-shadow: 0px 20px 40px 0px #0000001A;
+        border-radius: 10px;
+
+    }
+    .course{background: #fff;
+    padding: 20px;
+    box-shadow: 0px 10px 40px 0px #0000001A;
+
+    border-radius: 18px;
+}
+
+.course h2{color: #413960;
+font-size: 24px;
+line-height: 36px;
+margin-top: 30px;}
+.course p{}
+.course img{}
+.course h5{font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    }
+    .course ul{
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .course ul li{color: #585859;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.course ul li i{margin-right: 10px;}
+
+.btn-course{
+    color: #fff;
+    background: #21B573;
+    font-size: 16px;
+    line-height: 19px;
+    padding: 0;
+    padding: 6px 12px;
+    border-radius: 50px;
+    margin: 20px 0;
+}
+.btn-course:hover{background: #267652;
+color: #fff;}
+.head h1{text-transform: capitalize;font-family: Poppins;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 54px;
+    letter-spacing: 0em;
+    text-align:center;
+    }
+    .bottom h1{text-transform: capitalize;font-family: Poppins;
+        font-size: 36px;
+        font-weight: 700;
+        line-height: 54px;
+        letter-spacing: 0em;
+        text-align:center;}
+       .design{
+        font-family: Poppins;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 30px;
+        letter-spacing: 0em;
+        text-align: left;
+        align-items: center;
+        display: flex;
+        color: #000000;
+        ;
+        }
+        .bgl{
+        background-color:#282531;
+        color: #fff;
+        height: 369px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+        .bgl p{font-family: Poppins;
+            font-size: 16px;
+            font-weight: 400;
+            line-height: 30px;
+            letter-spacing: 0em;
+            text-align: left;
+            }
+
+            .bgl ul li{ color: white;text-decoration: none;font-weight: 200;}
+
+            .bgl ul li{}
+            .bgl ul{list-style: none;}
+
+            .bgl ul li:first-child{font-weight:700;}
+        
+           
